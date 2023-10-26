@@ -12,6 +12,9 @@ Un alumno de la carrera de Desarrollo de Software Multiplataforma trata de conse
 ## Motor 2D
 Desarrollar el videojuego "Unforgiving Trials: Nightfall's Grasp" utilizando un motor 2D, con un enfoque similar al juego "The Binding of Isaac," con el propósito de ofrecer a los jugadores una experiencia emocionante y desafiante. El género de los juegos roguelike y el estilo visual 2D ha demostrado ser exitoso en la industria de los videojuegos. La popularidad de juegos como "The Binding of Isaac" indica una demanda continua por experiencias similares.
 
+<img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/eb276d74-9de3-49be-be35-d9cf99d90489" width="400px" />
+
+
 ## Clasificacion
 El público al que va dirigida esta aplicación es a las personas mayores de 15 años, que buscan una experiencia de juego emocionante y desafiante. Nuestra aplicación ofrece una variedad de juegos y características diseñadas para entretener y estimular la mente de adolescentes y adultos jóvenes, brindando diversión y entretenimiento a aquellos que desean disfrutar de una experiencia de juego enriquecedora.
 
@@ -69,6 +72,22 @@ El público al que va dirigida esta aplicación es a las personas mayores de 15 
 | Dentro de la partida el jugador podra moverse hacia arriba, abajo, izquierda y derecha por la sala y dentro de todo el mapa, al igua que podra disparar hacia las mismas direcciones. |
 
 <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/105385260/e2012b68-4997-477b-bf05-198086c728a7" width="700px" />
+
+## Elementos en partida
+
+| Nombre | Descripcion |
+|--------|--------------|
+| Corazones | Es el indicador de la vida que tiene el jugador |
+| Barra de daño | Es la indicadora del nivel de daño que tiene el proyectil del jugador |
+| Barra de veloacidad | Es el indicador del nivel de veloacidad de movimiento que tiene el jugador |
+| Barra de armamento | Es el indicador del nivel de proteccion que tiene el jugador |
+| Barra de proyectil | Es el indicador de la cantidad o nivel que tiene el proyectil del jugador |
+| Barra de velocidad de disparo | Es el indicador del nivel de la velocidad del disparo del jugador |
+| Barra de tiempo | Es el indicador del tiempo que se tiene en una sala de jefe para derrotarlo |
+| Mapa | Muestra el mapa en el que se encuentra el jugador |
+
+
+<img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/e8f67300-b82a-461e-9a80-d952f088b359" width="700px" />
 
 ## Pagina al perder nivel
 | Descripcion |
