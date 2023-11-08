@@ -178,6 +178,19 @@ Los aditamentos pueden proporcionar mejoras en las habilidades del personaje, co
 
 ---
 
+# Banda sonora
+
+## Musica para pagina principal
+
+Five Nights at Freddy's - The Newton Brothers
+
+Compuesta por: Taylor Nicole Stewart / John Andrew Grush
+
+## Musica para durante la partida
+"Cansado" Base de Rap Boom Bap - Underground Prod By Zampler Beatz
+
+---
+
 # Estructura de base de datos
 
 - [x] Id: Int
