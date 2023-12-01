@@ -36,10 +36,6 @@ El público al que va dirigida esta aplicación es a las personas mayores de 15 
 <img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/db0351bb-2ca1-492e-8249-1069f8532911" width="700px"/>
 
 
-#### Vista de la pagina de inicio
-<img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/297998c0-11ac-40a8-9ee5-f7243926ed80" width="700px"/>
-
-
 ## Pagina de informacion
 
 | Descripcion |
@@ -47,14 +43,6 @@ El público al que va dirigida esta aplicación es a las personas mayores de 15 
 | Muestra la historio, los objetos y controles y los objetos especiales. |
 
 <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/105385260/eadd4006-af5e-468b-9f30-638836d9ee06" width="700px" />
-
-## Pagina de personajes
-
-| Descripcion |
-| ---------------------|
-| Muestra a dos personajes los cuales son el principal "Manu" y el segundo "Nao". una vez seleccionado mostrara la **pagina de niveles**. |
-
-<img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/105385260/996f04f1-c594-4a95-b886-b9b372dfaa9b" width="700px" />
 
 ## Pagina de niveles
 
@@ -73,22 +61,6 @@ El público al que va dirigida esta aplicación es a las personas mayores de 15 
 
 <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/105385260/e2012b68-4997-477b-bf05-198086c728a7" width="700px" />
 
-## Elementos en partida
-
-| Nombre | Descripcion |
-|--------|--------------|
-| Corazones | Es el indicador de la vida que tiene el jugador |
-| Barra de daño | Es la indicadora del nivel de daño que tiene el proyectil del jugador |
-| Barra de veloacidad | Es el indicador del nivel de veloacidad de movimiento que tiene el jugador |
-| Barra de armamento | Es el indicador del nivel de proteccion que tiene el jugador |
-| Barra de proyectil | Es el indicador de la cantidad o nivel que tiene el proyectil del jugador |
-| Barra de velocidad de disparo | Es el indicador del nivel de la velocidad del disparo del jugador |
-| Barra de tiempo | Es el indicador del tiempo que se tiene en una sala de jefe para derrotarlo |
-| Mapa | Muestra el mapa en el que se encuentra el jugador |
-
-
-<img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/e8f67300-b82a-461e-9a80-d952f088b359" width="700px" />
-
 ## Pagina al perder nivel
 | Descripcion |
 | ---------------------|
@@ -96,59 +68,34 @@ El público al que va dirigida esta aplicación es a las personas mayores de 15 
 
 <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/105385260/4438723e-b818-4474-86e8-e7c09f9a0a9a" width="700px" />
 
-<img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/105385260/0e826edc-1b8d-4e25-afbf-0973be3e8cad" width="700px" />
-
 ---
 
-# Diseños
+# Mapas
+El sistema de mapa fue desarrollado con el fin de que se genere el nivel con su mapa que estara conformado por salas, de la siguiente manera:
 
-## Nivel TSU
-<img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/1b70a033-0956-48a4-87ef-84d32c6e67c4" width="700px" />
+<img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/38a61944-a765-40ef-9802-85dbbf745fa6" width="700px" />
 
-## Mapas nivel - TSU
-### Mapa 1
-<img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/71ee6939-f900-44b9-ae9e-1603aa164b00" width="700px" />
+*Nota: La imagen solo es de referencia las salas de los niveles se generan aleatoriamente*
 
-### Mapa 2
-<img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/dd386919-b4d3-4688-83e9-2c09332fc5a7" width="700px" />
+## Tipos
 
-### Mapa 3
-<img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/abe93eef-c007-44a0-89e5-c57613c5e07c" width="700px" />
+| Nombre | Representacion |
+| -------|--------------|
+| Salas comunes | <img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/7b8124cb-0338-4059-9fe0-882b9f5c54dd" width="100px" /> |
+| Sala inicial | <img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/28685613-be77-4c1b-97e1-039bc1b284b1" width="100px" /> |
+| Sala del jefe | <img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/93d51cf3-f5ca-4d47-81b9-b102ba4df4b7" width="100px" /> |
 
-### Mapa 4
-<img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/f5f2165e-45b9-461f-bc41-ec912a0bc8fe" width="700px" />
-
-
-## Nivel F
-<img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/ced5f4bc-8d73-484f-93e6-08e6560b12ee" width="700px" />
-
-## Mapas nivel - F
-### Mapa 1
-<img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/9d07a8aa-e46d-4def-bd64-33fd08285c8f" width="700px" />
-
-### Mapa 2
-<img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/3259ff2d-2e4f-4f6a-a570-8db74dd0532a" width="700px" />
-
-### Mapa 3
-<img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/82fc8d57-8ecc-46e0-87b0-ade567190685" width="700px" />
-
-### Mapa 4
-<img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/8428288d-5443-47a8-b6d1-045be3676d18" width="700px" />
-
+El sistema del mapa esta pensado para que trabaje con datos generados de forma random pero cumpliendo el requerimiento para cumplir con la dificultad de los niveles.
 
 ---
 
 # Reglas del juego (Indicaciones)
-- Reglas del juego (Indicaciones)
 - Avanza una sala a la vez eliminando a los enemigos que se encuentren en ella.
 - Recolecta objetos que te ayudarán a mejorar tus habilidades.
 - Recuerda que cuentas con 3 vidas para pasar un mapa.
 - Encuentra y llega a la sala del jefe del mapa para enfrentarlo.
-  - Con el jefe se complican las cosas ya que cuentas con un límite de tiempo para vencerlo.
-  - En caso de que se te acabe el tiempo, pierdes una de las 3 vidas que tienes y reinicias el combate con el jefe.
-  - En caso de perder las 3 vidas, se reiniciará el mapa completo.
 - Derrota al jefe y muestra que eres digno de pasar al siguiente mapa.
-- Avanza 9 mapas derrotando a los enemigos y jefes para avanzar al siguiente nivel.
+- Elimina a todos los enemigos y junto con el jefe para cumplir el nivel.
 
 ---
 
@@ -157,10 +104,10 @@ Los aditamentos pueden proporcionar mejoras en las habilidades del personaje, co
 
 | Nombre de aditamento | Forma | Descripcion | valor | 
 |----------------------|-------|-------------|-------|
-| Libro | <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/6c811ac9-434d-484c-8596-26b1dfee7e76" width="100px" /> | Aumenta el valor en daño | 20 |
-| Disquet | <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/f9e6c8af-898d-4687-a3a7-686bf606cf55" width="100px" /> | Aumenta el valor en armamento | 20 |
-| Mouse | <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/84c1b935-9b2e-4a37-bd11-12c2f524b974" width="100px" />| Aumenta el valor en velocidad | 20 |
-| Audifonos | <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/4751474f-1a09-4480-a907-f18d2fe96a7c" width="100px" />| Aumenta el valor en velocidad de disparo | 20 |
+| Libro | <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/6c811ac9-434d-484c-8596-26b1dfee7e76" width="100px" /> | Aumenta el valor en vida | 50% |
+| Disquet | <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/f9e6c8af-898d-4687-a3a7-686bf606cf55" width="100px" /> | Aumenta el valor en tamaño del proyectir | 0.02 |
+| Mouse | <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/84c1b935-9b2e-4a37-bd11-12c2f524b974" width="100px" />| Aumenta el valor en velocidad de movimiento del jugador | 1 |
+| Audifonos | <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/4751474f-1a09-4480-a907-f18d2fe96a7c" width="100px" />| Aumenta el valor en velocidad de disparo | o,25 |
 
 *Los aditamentos se encuentran en la carpeta Assets > Aditamentos*
 
@@ -189,6 +136,15 @@ Compuesta por: Taylor Nicole Stewart / John Andrew Grush
 ## Musica para durante la partida
 "Cansado" Base de Rap Boom Bap - Underground Prod By Zampler Beatz
 
+# Efectos de sonido
+
+ - 1.- Sonido de disparo
+ - 2.- Sonido de golpe enemigo
+ - 3.- Sonido partida ganada
+ - 4.- Sonido partida perdida
+
+*Los objetos se encuentran en la carpeta Assets > Efectos_Sonido*
+
 ---
 
 # Estructura de base de datos
@@ -196,6 +152,7 @@ Compuesta por: Taylor Nicole Stewart / John Andrew Grush
 - [x] Id: Int
 - [x] Nombre jugador: varchar(50)
 - [x] Fecha de nacimiento: Date
+- [x] Puntos: Int
 
 
 ---
