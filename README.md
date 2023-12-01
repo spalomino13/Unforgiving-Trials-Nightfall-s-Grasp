@@ -124,6 +124,18 @@ Los aditamentos pueden proporcionar mejoras en las habilidades del personaje, co
 *Los objetos se encuentran en la carpeta Assets > Objetos*
 
 ---
+# Assets
+
+Se utilizaron recursos de *Unity Asset Store* los cuales fueron los siguientes:
+
+| Nombre |
+| -------|
+| <img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/02f1a3c1-c8f1-4f66-aa9b-e2f0bfb3be2d" width="500px" /> |
+| <img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/ac6cc43c-593b-4909-b72d-3960f7ba6c2f" width="500px" /> |
+| <img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/8e010862-fbe4-49a4-aa60-65e61963b1ea" width="500px" /> |
+| <img src="https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/assets/105385260/6cf59bb4-d62b-4934-b1c6-34e83cb3732a" width="500px" /> |
+
+---
 
 # Banda sonora
 
