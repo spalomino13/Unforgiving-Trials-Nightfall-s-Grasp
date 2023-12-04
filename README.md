@@ -172,6 +172,18 @@ Compuesta por: Taylor Nicole Stewart / John Andrew Grush
 # Enlace a Trello
 https://trello.com/b/lZsKHUDo/unforgiving-trials-nightfalls-grasp
 
+# Enlace a Ejecutables
+
+Los ejecutables del juego abarcan :
+
+ - Ejecutable en el sistema operativo Windowa.
+ - Ejecutable en dispositivos moviles.
+ - Ejecutable en pagina web.
+
+**Se encuentran cargados en el siguiente URL:**
+
+https://drive.google.com/drive/folders/1SdI79w5YWPl7qkkBov6alSf0zpeWSXUg?usp=share_link
+
 ---
 
 ## Autores:
