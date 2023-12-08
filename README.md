@@ -185,6 +185,11 @@ Los ejecutables del juego abarcan :
 https://drive.google.com/drive/folders/1SdI79w5YWPl7qkkBov6alSf0zpeWSXUg?usp=share_link
 
 ---
+## Presentación de generador de ejecutables
+
+[Distribución de la aplicación de Videojuegos.pptx](https://github.com/spalomino13/Unforgiving-Trials-Nightfall-s-Grasp/files/13607745/Distribucion.de.la.aplicacion.de.Videojuegos.pptx)
+
+---
 
 ## Autores:
 
